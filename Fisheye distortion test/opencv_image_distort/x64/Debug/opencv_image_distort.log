@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\fszat\source\repos\opencv_image_distort\opencv_image_distort\main.cpp(25): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\fszat\source\repos\opencv_image_distort\opencv_image_distort\main.cpp(34): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+c:\users\fszat\source\repos\opencv_image_distort\opencv_image_distort\main.cpp(35): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  opencv_image_distort.vcxproj -> C:\Users\fszat\source\repos\opencv_image_distort\x64\Debug\opencv_image_distort.exe
